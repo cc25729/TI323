@@ -1,5 +1,5 @@
 #Dependencias
-nodes_modules/
+node_modules/
 
 #ide e editores
 .vscode
